@@ -1,0 +1,9 @@
+{
+  "name": "Front Door – Workforce prototype",
+  "short_name": "Front Door",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f6f7",
+  "theme_color": "#a3123a",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
